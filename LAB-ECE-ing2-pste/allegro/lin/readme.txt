@@ -1,1 +1,0 @@
-sudo apt-get install liballegro4.2-dev
